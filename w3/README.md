@@ -71,8 +71,8 @@ tail -n 1 $file_path
     * 파랑
 
 ### 강조
-*single asterisks*
-_single underscores_
-**double asterisks**
-__double underscores__
-~~cancelline~~
+*single asterisks*  
+_single underscores_  
+**double asterisks**  
+__double underscores__  
+~~cancelline~~  
